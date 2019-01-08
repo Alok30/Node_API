@@ -1,0 +1,25 @@
+{
+  "name": "noode_api",
+  "version": "1.0.0",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alok30/Node_API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alok30/Node_API/issues"
+  },
+  "homepage": "https://github.com/Alok30/Node_API#readme",
+  "description": ""
+}
